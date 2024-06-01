@@ -7,7 +7,7 @@ export default {
         {
           id: 1,
           name: 'Portfolio Website',
-          imageUrl: 'portfolio-website',
+          imageUrl: 'website',
           status: 'I built this website as a personal project to highlight my web development skills and showcase my portfolio. Its also a space where I can explore and implement new technologies to expand my knowledge and creativity.',
           tech: 'VueJS 3, Tailwind',
           github: 'https://github.com/franklinnolasco7/portfolio-website',
