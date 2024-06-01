@@ -14,67 +14,67 @@ export default {
           id: 2,
           name: 'CSS',
           imageUrl: 'https://cdn-icons-png.flaticon.com/512/732/732190.png',
-          status: 'Advanced'
+          status: 'Intermediate'
         },
         {
           id: 3,
           name: 'PHP',
           imageUrl: 'https://cdn.iconscout.com/icon/free/png-256/free-php-2038871-1720084.png',
-          status: 'Advanced'
+          status: 'Beginner'
         },
         {
           id: 4,
           name: 'Javascript',
           imageUrl: 'https://cdn.icon-icons.com/icons2/2415/PNG/512/javascript_original_logo_icon_146455.png',
-          status: 'Advance'
+          status: 'Intermediate'
         },
         {
           id: 5,
-          name: 'Laravel',
-          imageUrl: 'https://cdn.worldvectorlogo.com/logos/laravel-2.svg',
-          status: 'Advance'
+          name: 'VueJS',
+          imageUrl: 'https://cdn.iconscout.com/icon/free/png-256/free-vue-282497.png?f=webp',
+          status: 'Beginner'
         },
         {
           id: 6,
-          name: 'Codeigniter',
-          imageUrl: 'https://cdn-peanutsquare.b-cdn.net/wp-content/uploads/2022/11/codeigniter-logo.png',
+          name: 'SQL',
+          imageUrl: 'https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg',
           status: 'Intermediate'
         },
         {
           id: 7,
-          name: 'VueJS',
-          imageUrl: 'https://cdn.iconscout.com/icon/free/png-256/free-vue-282497.png?f=webp',
-          status: 'Intermediate'
-        },
-        {
-          id: 8,
-          name: 'AlpineJS',
-          imageUrl: 'https://avatars.githubusercontent.com/u/59030169?s=200&v=4',
-          status: 'Beginner'
-        },
-        {
-          id: 9,
           name: 'NodeJS',
           imageUrl: 'https://cdn.iconscout.com/icon/free/png-256/free-node-js-1174925.png',
           status: 'Beginner'
         },
         {
-          id: 10,
+          id: 8,
           name: 'Tailwind',
           imageUrl: 'https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg',
-          status: 'Advance'
+          status: 'Beginner'
         },
         {
-          id: 11,
+          id: 9,
           name: 'Bootstrap',
           imageUrl: 'https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png',
           status: 'Intermediate'
         },
         {
+          id: 10,
+          name: 'Python',
+          imageUrl: 'https://cdn.worldvectorlogo.com/logos/python-5.svg',
+          status: 'Intermediate'
+        },
+        {
+          id: 11,
+          name: 'Java',
+          imageUrl: 'https://cdn.worldvectorlogo.com/logos/java-4.svg',
+          status: 'Intermediate'
+        },
+        {
           id: 12,
-          name: 'ReactJS',
-          imageUrl: 'https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png',
-          status: 'Beginner'
+          name: 'C++',
+          imageUrl: 'https://cdn.worldvectorlogo.com/logos/c.svg',
+          status: 'Intermediate'
         }
       ],
       tools: [
@@ -92,15 +92,27 @@ export default {
         },
         {
           id: 3,
-          name: 'NPM',
-          imageUrl: 'https://cdn.iconscout.com/icon/free/png-256/free-npm-3-1175132.png',
-          status: 'Package Manager'
+          name: 'XAMPP',
+          imageUrl: 'https://cdn.worldvectorlogo.com/logos/xampp.svg',
+          status: 'Local Server'
         },
         {
           id: 4,
           name: 'MySQL',
           imageUrl: 'https://cdn-icons-png.flaticon.com/512/5968/5968313.png',
           status: 'Database'
+        },
+        {
+          id: 5,
+          name: 'VS Code',
+          imageUrl: 'https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg',
+          status: 'Code Editor'
+        },
+        {
+          id: 6,
+          name: 'Excel',
+          imageUrl: 'https://cdn.worldvectorlogo.com/logos/excel-4.svg',
+          status: 'Spreadsheet'
         },
       ]
     };
