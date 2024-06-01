@@ -25,11 +25,11 @@ export default {
         {
           id: 3,
           name: 'More Coming Soon',
-          imageUrl: 'comingsoon',
+          imageUrl: 'portfolio-comingsoon.gif',
           status: 'Work in Progress',
           tech: '',
-          github: 'null',
-          demo: 'null'
+          github: null,
+          demo: null
         },
       ]
     };
