@@ -24,17 +24,16 @@
       <div class="w-full md:w-1/3 h-fit p-8 md:sticky md:top-24">
         <!-- Sidebar -->
         <div class="flex flex-col text-left">
-          <div class="bg-clip-text bg-gradient-to-r from-slate-100 to-amber-300 text-transparent">Let's share experiences,
-            stories, and knowledge together.
+          <div class="bg-clip-text bg-gradient-to-r from-slate-100 to-amber-300 text-transparent">Work in Progress...
           </div>
           <div class="h-[1px] mt-7 mb-7 w-20 bg-amber-200 aos-init aos-animate mr-2"></div>
           <div class="hidden md:block">
             <div class="text-white text-md font-semibold">Topics</div>
             <div class="mt-3 flex flex-wrap gap-1">
               <span
-                class="py-2 px-3 rounded-2xl bg-[#1e1e1f] hover:bg-white/20 text-white text-xs cursor-pointer">NodeJS</span>
+                class="py-2 px-3 rounded-2xl bg-[#1e1e1f] hover:bg-white/20 text-white text-xs cursor-pointer">Sample1</span>
               <span
-                class="py-2 px-3 rounded-2xl bg-[#1e1e1f] hover:bg-white/20 text-white text-xs cursor-pointer">Technology</span>
+                class="py-2 px-3 rounded-2xl bg-[#1e1e1f] hover:bg-white/20 text-white text-xs cursor-pointer">Sample2</span>
             </div>
             <!-- <div class="h-[1px] mt-7 mb-7 w-20 bg-amber-200 aos-init aos-animate mr-2"></div>
             <div class="text-white text-md font-semibold">Popular Articles</div> -->
