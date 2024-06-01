@@ -12,15 +12,15 @@ export default {
           tech: 'VueJS 3, Tailwind',
           github: 'https://github.com/franklinnolasco7/portfolio-website',
           demo: 'https://d70113a8.portfolio-website-240.pages.dev/'
-        },
+        }, 
         {
           id: 2,
-          name: 'Sahabat Muslim',
-          imageUrl: 'sahabatmuslim',
-          status: 'A website that has a responsive display to make it easier for Muslims to read the Quran from anywhere.',
-          tech: 'VueJS 3, Tailwind',
-          github: 'https://github.com/rakha-elctrnx/muslim-companion',
-          demo: 'https://sahabat-muslim.netlify.app/'
+          name: 'Static Restaurant Landing Page',
+          imageUrl: 'KNP',
+          status: 'A sleek, static website for a restaurant created with HTML and CSS, featuring a modern design, responsive layout, and key information like menu highlights and contact details.',
+          tech: 'HTML, CSS',
+          github: 'https://github.com/franklinnolasco7/restaurant-landing-page',
+          demo: 'https://local-restaurant-website.pages.dev/'
         },
         {
           id: 3,
