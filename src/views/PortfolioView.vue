@@ -31,6 +31,15 @@ export default {
           github: null,
           demo: null
         },
+        {
+          id: 4,
+          name: 'More Coming Soon',
+          imageUrl: 'workinprogress',
+          status: 'Work in Progress',
+          tech: '',
+          github: null,
+          demo: null
+        },
       ]
     };
   }
