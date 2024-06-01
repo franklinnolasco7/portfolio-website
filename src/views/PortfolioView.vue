@@ -6,12 +6,12 @@ export default {
       items: [
         {
           id: 1,
-          name: 'Personal Website',
-          imageUrl: 'portfolio_v2',
-          status: 'My personal website, I created this website to display my profile, skills and projects. As well as my place to try new technology.',
+          name: 'Portfolio Website',
+          imageUrl: 'portfolio-website',
+          status: 'I built this website as a personal project to highlight my web development skills and showcase my portfolio. Its also a space where I can explore and implement new technologies to expand my knowledge and creativity.',
           tech: 'VueJS 3, Tailwind',
-          github: 'https://github.com/rakha-elctrnx/Portofolio-v2',
-          demo: 'https://bagasrakha.netlify.app/'
+          github: 'https://github.com/franklinnolasco7/portfolio-website',
+          demo: 'https://d70113a8.portfolio-website-240.pages.dev/'
         },
         {
           id: 2,
