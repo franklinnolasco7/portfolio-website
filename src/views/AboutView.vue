@@ -128,18 +128,14 @@ export default {
         </div>
         <div class="md:w-7/12">
           <p class="mb-3 md:mb-7 fadein-left fadeins-1">
-            &nbsp; &nbsp; &nbsp; Hi everyone! My name is Bagas Rakha Putra. I'm a web developer from Bogor, West Java. I
-            have 1 year of experience in back-end web development.
-            I really enjoy what I do right now, in my opinion, creating programs is not just a job, but also an art that
-            has
-            aesthetic value
+            &nbsp; &nbsp; &nbsp; Hi everyone! My name is Franklin Nolasco, a web developer and computer engineering student from Tayabas City, Philippines. 
+            I'm currently studying at Southern Luzon State University, specializing in programming languages like C++, Java, and Python, 
+            as well as web development and database management.
           </p>
           <p class="mb-3 fadein-left fadeins-2">
-            &nbsp; &nbsp; &nbsp; My job is to build your website to be functional and user-friendly yet still attractive.
-            In addition, I provide a personal touch to your product and ensure that the website catches attention and is
-            easy to use.
-            My goal is to convey your message and identity in the most creative way. If you are interested in hiring me,
-            please contact the listed contact.
+            &nbsp; &nbsp; &nbsp; I enjoy working on self-learning projects where I design websites that are functional,
+             user-friendly, and visually appealing. My goal is to help you communicate your message creatively, 
+             making sure your website is both eye-catching and easy to navigate. I look forward to collaborating with you and bringing your ideas to life!
           </p>
         </div>
 
