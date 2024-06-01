@@ -20,7 +20,7 @@ export default {
           status: 'A sleek, static website for a restaurant created with HTML and CSS, featuring a modern design, responsive layout, and key information like menu highlights and contact details.',
           tech: 'HTML, CSS',
           github: 'https://github.com/franklinnolasco7/restaurant-landing-page',
-          demo: 'https://local-restaurant-website.pages.dev/'
+          demo: 'https://html-css-restaurant-landing-page.pages.dev/'
         },
         {
           id: 3,
