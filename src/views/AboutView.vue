@@ -128,14 +128,16 @@ export default {
         </div>
         <div class="md:w-7/12">
           <p class="mb-3 md:mb-7 fadein-left fadeins-1">
-            &nbsp; &nbsp; &nbsp; Hi everyone! My name is Franklin Nolasco, a web developer and computer engineering student from Tayabas City, Philippines. 
-            I'm currently studying at Southern Luzon State University, specializing in programming languages like C++, Java, and Python, 
-            as well as web development and database management.
+            &nbsp; &nbsp; &nbsp; Hello there! I'm Franklin, a computer engineering student from the Philippines with a passion for web development. 
+            Currently, I'm honing my skills at Southern Luzon State University, where I'm diving deep into the world of programming languages like C++, Java, 
+            and Python, along with web development and database management.
           </p>
           <p class="mb-3 fadein-left fadeins-2">
-            &nbsp; &nbsp; &nbsp; I enjoy working on self-learning projects where I design websites that are functional,
-             user-friendly, and visually appealing. My goal is to help you communicate your message creatively, 
-             making sure your website is both eye-catching and easy to navigate. I look forward to collaborating with you and bringing your ideas to life!
+            &nbsp; &nbsp; &nbsp; I love the challenge of transforming ideas into reality through code and design.
+            I'm a lifelong learner, always experimenting with new technologies and techniques through personal projects. 
+            My ultimate goal is to create seamless online experiences that not only look great but are also intuitive and easy to use. 
+            If you're looking for a dedicated collaborator who shares your passion for innovative web solutions, 
+            I'd love to chat and see how we can bring your vision to life!
           </p>
         </div>
 
