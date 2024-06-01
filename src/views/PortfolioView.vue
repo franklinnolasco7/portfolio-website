@@ -8,7 +8,7 @@ export default {
           id: 1,
           name: 'Portfolio Website',
           imageUrl: 'website',
-          status: 'I built this website as a personal project to highlight my web development skills and showcase my portfolio. Its also a space where I can explore and implement new technologies to expand my knowledge and creativity.',
+          status: 'I built this website as a personal project to showcase my web development skills and portfolio. Its also a space for exploring and implementing new technologies to expand my knowledge and creativity.',
           tech: 'VueJS 3, Tailwind',
           github: 'https://github.com/franklinnolasco7/portfolio-website',
           demo: 'https://d70113a8.portfolio-website-240.pages.dev/'
@@ -25,7 +25,7 @@ export default {
         {
           id: 3,
           name: 'More Coming Soon',
-          imageUrl: 'wip',
+          imageUrl: 'KNP',
           status: 'Work in Progress',
           tech: '',
           github: null,
