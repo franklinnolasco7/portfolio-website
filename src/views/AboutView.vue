@@ -8,7 +8,7 @@ export default {
           id: 1,
           name: 'HTML',
           imageUrl: 'https://cdn-icons-png.flaticon.com/512/1051/1051277.png',
-          status: 'Advanced'
+          status: 'Intermediate'
         },
         {
           id: 2,
@@ -62,7 +62,7 @@ export default {
           id: 10,
           name: 'Python',
           imageUrl: 'https://cdn.worldvectorlogo.com/logos/python-5.svg',
-          status: 'Intermediate'
+          status: 'Beginner'
         },
         {
           id: 11,
@@ -74,7 +74,7 @@ export default {
           id: 12,
           name: 'C++',
           imageUrl: 'https://cdn.worldvectorlogo.com/logos/c.svg',
-          status: 'Intermediate'
+          status: 'Beginner'
         }
       ],
       tools: [
