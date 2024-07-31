@@ -1,4 +1,4 @@
-<template></template>
+<template>
   <div class="max-w-7xl mx-auto flex flex-col relative">
 
     <nav class="max-w-7xl px-5 md:fixed top-0 z-[98] w-screen backdrop-blur-md bg-[#121212] bg-opacity-80">
@@ -96,44 +96,3 @@ body {
 nav {
   padding: 30px;
 }
-
-nav a {
-  font-weight: bold;
-  color: #2c3e50;
-  transition: color 0.3s;
-}
-
-nav a.router-link-exact-active {
-  display: inline-flex;
-  flex-direction: column;
-  color: white;
-  transition: color 0.3s;
-}
-
-nav a.router-link-exact-active::after {
-  display: inline-block;
-  content: "";
-  margin-top: 0.08em;
-  width: 100%;
-  height: 4px;
-  border-radius: 2px;
-  background-color: #ffdb70;
-}
-
-nav a.router-link-exact-active:hover {
-  color: white;
-}
-
-
-@keyframes fadeInLeft {
-  0% {
-    opacity: 0;
-    transform: translateX(-100%);
-  }
-  100% {
-    opacity: 1;
-    transform: translateX(0);
-  }
-}
-
-</style>
