@@ -22,7 +22,7 @@
         </div>
       </div>
       <div class="w-full md:w-1/3 h-fit p-8 md:sticky md:top-24">
-        <!-- Sidebarr -->
+        <!-- Sidebar -->
         <div class="flex flex-col text-left">
           <div class="bg-clip-text bg-gradient-to-r from-slate-100 to-amber-300 text-transparent">Work in Progress...
           </div>
